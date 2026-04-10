@@ -1,0 +1,7 @@
+Airflow
+Works - Interval based, Event Driven and Manual
+
+When not to be used
+Streaming(Batch only)
+Scheduling, data and monitoring Overhead
+    instead use cron or bash
